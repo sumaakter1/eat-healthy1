@@ -55,6 +55,57 @@ h1{
     background-repeat: no-repeat;
 }
 
+.recipies{
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
+
+.add-shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 40px;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-left:45px;
+    padding-bottom: 30px;
+    
+    
+    border-radius: 20px;
+}
+.inside-border img{
+    width: 90%;
     
 
+}
+.inside-border{
+    margin-right: 15px;
+}
+.updates-item{
+    text-align: center;
+    display: flex;
+    margin-left:80px;
+    
+    
+}
+.items{
+    padding-left: 90px;
+}
+.section-five{
+    box-shadow: 10px 10px 40px gray;
+    margin:70px 70px 70px 70px ;
+    padding-left:40px ;
+    padding-right:50px ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-five div h2{
+    font-size:40px ;
+}
+.last-div{
+    text-align: center;
+    background: rgb(14, 14, 39);
+    padding-top: 15px;
+    padding-bottom:40px;
+    color: white;
 
+}
