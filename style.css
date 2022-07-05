@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 section{
     display: flex;
@@ -13,20 +14,21 @@ h1{
     
 }
 .just-eat-healthy img{
-    width: 130%;
+    width: 90%;
+    
     
     
 }
 .just-eat-healthy{
     width: 35%;
-    margin-left:55px;
-    margin-top: 90px;
+    margin-left:50px;
+    margin-top: 70px;
+    padding: 5%;
 
 }
-.just-eat-healthy p{
+.first-para{
     color: gray;
-    margin-bottom: 50px;
-    
+    margin-bottom: 80px;
 }
 .skip-eat{
     color: orange;
@@ -40,3 +42,19 @@ h1{
  font-weight: 700;
  box-shadow: 10px 10px 15px rgb(241, 171, 145);
 }
+
+
+.about-me{
+    color: gray;
+    font-weight: 600;
+    font-size: 35px;
+    
+}
+.second-section{
+    background-image: url(photos/7.png);
+    background-repeat: no-repeat;
+}
+
+    
+
+
